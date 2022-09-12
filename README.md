@@ -1,8 +1,8 @@
 # A multi-user project management dashboard
 <p>Built with React and Firebase</p>
-## dashboard page
-![image](https://user-images.githubusercontent.com/87960642/189678888-a45f0c92-10cf-4afb-bcff-229b941d7e01.png)
-## project detail page
-![image](https://user-images.githubusercontent.com/87960642/189679046-d96ce97c-18df-4abc-aebc-08bb849e096e.png)
-## view online
-<a href='https://cheeter-s-dashboard.web.app/'></a>
+<h2>dashboard page</h2>
+![image](https://user-images.githubusercontent.com/87960642/189680002-80a62014-8bee-4715-b165-72df04bbabd3.png)
+<h2>project detail page</h2>
+![image](https://user-images.githubusercontent.com/87960642/189680465-38f64bb2-c2bf-41a5-a2d7-9dc970dbe76a.png)
+<h2>view online</h2>
+<a href='https://cheeter-s-dashboard.web.app/'>live view</a>
